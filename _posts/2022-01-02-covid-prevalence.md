@@ -2,14 +2,12 @@
 title: How many people in the UK have COVID-19 at the moment?
 ---
 
-# How many people in the UK have COVID-19 at the moment?
-
 ## By region
 
-![Prevalence by region](https://github.com/CR90-IV/covid-prevalence/blob/gh-pages/plots/prevalence_by_region.png)
+![Prevalence by region](https://github.com/CR90-IV/covid-prevalence/blob/gh-pages/plots/prevalence_by_region.png?raw=true)
 
 ## By local authority (UTLA)
-![Prevalence by UTLA](https://github.com/CR90-IV/covid-prevalence/blob/gh-pages/plots/prevalence_by_utla.png)
+![Prevalence by UTLA](https://github.com/CR90-IV/covid-prevalence/blob/gh-pages/plots/prevalence_by_utla.png?raw=true)
 
 # Method
 This uses a method from the [microCOVID project](https://www.microcovid.org/paper/all#detailed-steps-for-basic-method).
