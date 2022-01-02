@@ -1,5 +1,7 @@
 ---
 title: How many people in the UK have COVID-19 at the moment?
+notetype: feed
+date: 01-01-2022
 ---
 
 ## By region
