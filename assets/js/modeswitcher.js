@@ -33,11 +33,6 @@ systemInitiatedDark.addListener(prefersColorTest);
 
 
 function modeSwitcher() {
-	// Manual override: set theme to light
-	sessionStorage.setItem('theme', 'light');
-	
-	// Old code
-	/*	
 	let theme = sessionStorage.getItem('theme');
 	if (theme === "dark") {
 		document.documentElement.setAttribute('data-theme', 'light');
@@ -56,7 +51,6 @@ function modeSwitcher() {
 		sessionStorage.setItem('theme', 'dark');
 		changeIconImgSrc("../assets/img/moon.svg");
 	}
-	*/
 }
 
 if (theme === "dark") {
