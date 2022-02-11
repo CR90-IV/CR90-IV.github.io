@@ -1,5 +1,5 @@
 ---
-title: COVID Reinfections?
+title: Reinfections of COVID
 notetype: feed
 date: 01-02-2022
 ---
