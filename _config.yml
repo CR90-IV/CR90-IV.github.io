@@ -28,7 +28,7 @@ url: "https://CR90-IV.github.io/" # the base hostname & protocol for your site, 
 # your social media links etc
 #######################################################################
 
-heading: Various COVID things # Change this 
+heading: A collection of random analysis # Change this 
 copyright:  
   year: 2022
   msg: All rights reserved, all wrongs reversed # This is a mandatory attribute for copyright to be displayed ; If deleting this, edit at footer layout.
