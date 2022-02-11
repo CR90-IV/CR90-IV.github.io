@@ -6,6 +6,3 @@ date: 03-01-2022
 
 ![Community mobility](https://github.com/CR90-IV/covid-prevalence/blob/gh-pages/plots/mobility_over_time.png?raw=true)
 
-## Recently
-
-![Community mobility](https://github.com/CR90-IV/covid-prevalence/blob/gh-pages/plots/community_mobility.png?raw=true)
